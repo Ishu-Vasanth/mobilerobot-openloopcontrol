@@ -104,10 +104,10 @@ if _name_ == '_main_':
 ![robo](./img/robomaster.png)
 
 ## Robot start point:
-![output](startingpoint.jpeg)
+![output](/img/start.jpg)
 
 ## Robot End Point:
-![output](endingpoint.jpeg)
+![output](/img/end.jpg)
 
 ## Live Stream 
 ![output](livestream.jpeg)
